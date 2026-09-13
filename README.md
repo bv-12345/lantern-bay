@@ -1,5 +1,7 @@
 # Lantern Bay
 
+[Open the working HTTPS preview](https://bv-12345.github.io/lantern-bay/) · [Public source](https://github.com/bv-12345/lantern-bay)
+
 Lantern Bay is a small, static number adventure for approximately six-year-old learners. It uses a ten-frame and visible lights to connect numerals with quantities from 0 to 10, compose ten, and solve short addition and subtraction stories.
 
 ## Run locally

@@ -52,3 +52,7 @@ Developer-operated review used rendered screenshots and explicit keyboard/touch 
 ## Limits
 
 Firefox, Safari, real touch hardware, screen-reader speech output, and actual local voice playback were not tested. No learning-effectiveness study or child testing was performed. Screenshot journeys use known mathematical fixtures; they demonstrate functional behavior and do not measure learner understanding. The interface can involve vertical scrolling on small displays; no core controls were clipped or horizontally inaccessible.
+
+## Public deployment verification
+
+The [HTTPS preview](https://bv-12345.github.io/lantern-bay/) returned HTTP 200 in a fresh browser context requiring no login. The live Make ten activity accepted seven plus three and displayed `7 + 3 = 10` without page errors. [Live browser record](evidence/public-preview.json), [screenshot](evidence/07-public-preview-1280.png). The fetched index bytes matched the tested source.
