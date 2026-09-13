@@ -1,0 +1,60 @@
+TAP version 13
+# Subtest: all frames have exactly ten distinct slots; toggling cannot duplicate a counter
+ok 1 - all frames have exactly ten distinct slots; toggling cannot duplicate a counter
+  ---
+  duration_ms: 2.489125
+  ...
+# Subtest: seven and three visibly form ten without changing starting part
+ok 2 - seven and three visibly form ten without changing starting part
+  ---
+  duration_ms: 0.252734
+  ...
+# Subtest: nine minus four is five, bounded against negative quantities
+ok 3 - nine minus four is five, bounded against negative quantities
+  ---
+  duration_ms: 0.2144
+  ...
+# Subtest: zero and ten are deliberate quantity targets
+ok 4 - zero and ten are deliberate quantity targets
+  ---
+  duration_ms: 0.153466
+  ...
+# Subtest: every bond is solvable including zero plus ten and five plus five
+ok 5 - every bond is solvable including zero plus ten and five plus five
+  ---
+  duration_ms: 0.261514
+  ...
+# Subtest: all six original stories have valid within-ten results and manipulable solutions
+ok 6 - all six original stories have valid within-ten results and manipulable solutions
+  ---
+  duration_ms: 0.271755
+  ...
+# Subtest: correctness depends on quantity, not counter placement
+ok 7 - correctness depends on quantity, not counter placement
+  ---
+  duration_ms: 0.116706
+  ...
+# Subtest: repeated adjustments preserve bounds and original state immutability
+ok 8 - repeated adjustments preserve bounds and original state immutability
+  ---
+  duration_ms: 0.244453
+  ...
+# Subtest: fresh final combines making ten and taking away two
+ok 9 - fresh final combines making ten and taking away two
+  ---
+  duration_ms: 0.214295
+  ...
+# Subtest: invalid external state rejected
+ok 10 - invalid external state rejected
+  ---
+  duration_ms: 0.454408
+  ...
+1..10
+# tests 10
+# suites 0
+# pass 10
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 126.80144

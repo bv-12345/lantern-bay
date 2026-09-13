@@ -1,0 +1,32 @@
+[
+  {
+    "viewport": "360x900",
+    "browser": "Chromium 140.0.7339.16",
+    "result": "pass",
+    "touch_emulated": true,
+    "reduced_motion": true,
+    "page_errors": [],
+    "external_requests": [],
+    "journey": "all 18 tasks, retry, reset, hints, two scaffolds, keyboard activation, speech unavailable fallback, refresh"
+  },
+  {
+    "viewport": "768x900",
+    "browser": "Chromium 140.0.7339.16",
+    "result": "pass",
+    "touch_emulated": false,
+    "reduced_motion": true,
+    "page_errors": [],
+    "external_requests": [],
+    "journey": "all 18 tasks, retry, reset, hints, two scaffolds, keyboard activation, speech unavailable fallback, refresh"
+  },
+  {
+    "viewport": "1280x900",
+    "browser": "Chromium 140.0.7339.16",
+    "result": "pass",
+    "touch_emulated": false,
+    "reduced_motion": true,
+    "page_errors": [],
+    "external_requests": [],
+    "journey": "all 18 tasks, retry, reset, hints, two scaffolds, keyboard activation, speech unavailable fallback, refresh"
+  }
+]

@@ -1,0 +1,3 @@
+.browser-env/
+__pycache__/
+*.zip
